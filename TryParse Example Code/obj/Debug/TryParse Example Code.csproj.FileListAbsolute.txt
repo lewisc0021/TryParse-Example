@@ -1,0 +1,5 @@
+c:\users\lewis\documents\visual studio 2015\Projects\TryParse Example Code\TryParse Example Code\bin\Debug\TryParse Example Code.exe.config
+c:\users\lewis\documents\visual studio 2015\Projects\TryParse Example Code\TryParse Example Code\bin\Debug\TryParse Example Code.exe
+c:\users\lewis\documents\visual studio 2015\Projects\TryParse Example Code\TryParse Example Code\bin\Debug\TryParse Example Code.pdb
+c:\users\lewis\documents\visual studio 2015\Projects\TryParse Example Code\TryParse Example Code\obj\Debug\TryParse Example Code.exe
+c:\users\lewis\documents\visual studio 2015\Projects\TryParse Example Code\TryParse Example Code\obj\Debug\TryParse Example Code.pdb
